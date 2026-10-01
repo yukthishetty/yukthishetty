@@ -33,6 +33,7 @@ I'm a Computer Science and Business Systems student at BMS Institute of Technolo
 - Management Information System Intern — Summit Vertex Partners
 - MIS Specialist — IntelliFunnel Labs
 - Research Analyst Intern — IntelliFunnel Labs
+- Operations Manager - Chicken Drips
 
 ### 📚 Currently Learning
 
